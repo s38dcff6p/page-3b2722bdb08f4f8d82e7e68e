@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "da084f75ec205e290088339e",
+  "owner": "s38dcff6p",
+  "repo": "page-3b2722bdb08f4f8d82e7e68e",
+  "title": "搬瓦工(JustMySocks)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3b2722bdb08f4f8d82e7e68e",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "搬瓦工(JustMySocks)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "589c8d3875d4c0f5c516aa17a0d38fabfcfdbc32204c227f61a6dbfa76c659db",
+      "content": {
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "",
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)官方网站提供机场订阅、VPN加速器与多端客户端下载服务，覆盖基础到团队套餐，助力流媒体、游戏与跨境办公网络加速。",
+          "AI_DESCRIPTION": "搬瓦工(JustMySocks)官方网站提供机场订阅、VPN加速器与多端客户端下载服务，覆盖基础到团队套餐，助力流媒体、游戏与跨境办公网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#f7f4ee;color:#1c1c1c;font-family:system-ui,-apple-system,sans-serif;font-size:17px;line-height:1.65;overflow-x:hidden;}*,*:before,*:after{box-sizing:border-box;}header{background:#1a4a2a;color:#f7f4ee;padding:12px 16px;} .brand{font-size:1.2rem;font-weight:700;margin:0 0 8px;}nav ul{display:flex;flex-wrap:wrap;gap:8px 14px;list-style:none;margin:0;padding:0;}nav a{color:#e7f0e5;text-decoration:none;}main{max-width:980px;margin:0 auto;padding:16px;}h1{font-size:1.75rem;color:#1a4a2a;margin:8px 0 12px;line-height:1.3;}h2{font-size:1.35rem;color:#1a4a2a;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2d6a3e;}h3{font-size:1.12rem;color:#245c32;margin:16px 0 8px;}p,li{margin:0 0 10px;}ul{padding-left:1.2em;}a{color:#1a4a2a;} .plans{display:grid;grid-template-columns:1fr;gap:14px;margin:18px 0;}@media(min-width:760px){.plans{grid-template-columns:repeat(3,1fr);} .editorial{display:grid;grid-template-columns:1.7fr 1fr;gap:22px;align-items:start;}} .plan{background:#fff;border:1px solid #d5d0c4;padding:14px;} .plan.featured{background:#eef6ee;border:2px solid #1a4a2a;} .price{font-size:1.28rem;font-weight:700;color:#1a4a2a;} .annual{font-size:0.92rem;color:#555;}details{background:#fff;border:1px solid #d0cbc0;margin:0 0 8px;padding:8px 12px;}summary{font-weight:600;color:#1a4a2a;} .side{background:#fff;border:1px solid #d5d0c4;padding:14px;margin:18px 0;} .ad-box{background:#fff;border:1px dashed #2d6a3e;padding:12px;margin:18px 0;}footer{background:#e8e4d9;padding:20px 16px;margin-top:28px;font-size:0.92rem;} .footer-inner{max-width:980px;margin:0 auto;} .linkrow{display:flex;flex-wrap:wrap;gap:10px 16px;margin:8px 0 14px;} .note{font-size:0.92rem;color:#444;}</style><header><p class=\"brand\">搬瓦工(JustMySocks)</p><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#friends\">友情链接</a></li><li><a href=\"#sitemap\">网站地图</a></li></ul></nav></header><main><h1>搬瓦工(JustMySocks) 官方网站</h1><p>搬瓦工(JustMySocks) 提供机场订阅与 VPN 加速服务。用户在官网选择套餐后获取订阅，即可在常用客户端中完成梯子网络加速、流媒体解锁与跨境访问。本页集中说明套餐对比、使用场景、操作步骤与客户端下载方式。</p><section id=\"intro\"><h2>品牌简介</h2><p>搬瓦工(JustMySocks) 面向需要稳定跨境连接的个人与团队，将机场订阅、节点线路与客户端配置放在同一套流程里。服务强调可预期的流量配额、可同时在线的设备数量，以及按套餐区分的流媒体与游戏线路能力，避免把所有需求都塞进单一方案。</p><p>订阅制让节点更新集中在一条链接上，更换线路或扩容时不必反复手动填写服务器信息。旗舰与团队方案会叠加 IPLC 游戏向优化、原生解锁与更高并发，基础方案则覆盖日常浏览与轻度解锁。页面后续给出可见的套餐对照，便于按流量、设备数和线路类型选择。</p><p>官方网站角色是把购买、订阅导入、客户端下载与常见问题写清楚。不依赖额外插件即可阅读全部说明。若你已有 Clash、Shadowrocket、v2rayNG 等客户端使用经验，可直接进入套餐对比与操作说明两节。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下三档为当前固定方案，价格与额度以页面展示为准。年付可降低月均成本。旗舰版适合多数需要完整解锁与游戏加速的用户，团队版面向多设备与定制路由。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按自然月周期统计并重置。同时在线台数以客户端实际心跳为准。流媒体与游戏表现与出口线路、时段负载有关，旗舰与团队方案优先分配优化节点。</p></section><div class=\"editorial\"><div><section id=\"scenes\"><h2>使用场景</h2><h3>海外流媒体与资讯</h3><p>需要稳定观看影视或查阅国际资料时，订阅导入后选择对应地区节点即可。旗舰版强调全节点原生解锁，减少因公共出口导致的版权库失败。基础版覆盖常见站点的基础访问，适合轻度使用。</p><h3>在线游戏与实时对战</h3><p>对延迟敏感的用户应优先旗舰版 IPLC 游戏加速优化。连接后在客户端内锁定游戏向节点，避免自动分流走到高延迟普通线路。团队版可把游戏设备与办公设备拆到不同策略。</p><h3>远程办公与跨境协作</h3><p>会议、网盘与代码仓库访问依赖连续会话。建议固定一条低丢包线路，并在客户端开启分流，使国内网站直连、跨境流量走机场订阅。团队版支持企业定制路由，便于把域名名单交给管理员统一维护。</p><h3>多设备与家庭共享</h3><p>同一订阅可在电脑、手机和平板使用，但受套餐同时在线上限约束。三人以内家庭选基础或旗舰；工作室、实验室或多人值班选团队版，以免互相挤占会话。</p></section><section id=\"guide\"><h2>操作说明</h2><p>完成购买到成功加速通常只需五步。全程使用页面锚点即可对照，无需额外脚本。</p><h3>第一步：选择并开通套餐</h3><p>根据月流量、设备数和是否需要 IPLC、全解锁，在套餐对比中选定基础版、旗舰版或团队版。年付适合长期使用。开通后在用户中心复制订阅地址，妥善保存，不要公开分享。</p><h3>第二步：准备客户端</h3><p>桌面端常用 Clash 系或 NekoBox，Android 可用 v2rayNG 或 Clash Meta，iOS 常用 Shadowrocket 或 Stash。具体获取方式见下方客户端下载。安装完成后不要急于手动填节点，优先走订阅。</p><h3>第三步：导入机场订阅</h3><p>打开客户端的订阅或 Profiles 栏，粘贴搬瓦工(JustMySocks) 提供的链接并更新。成功后会出现分组节点，一般包含香港、日本、新加坡、美国等地，旗舰与团队会看到游戏或流媒体标签。</p><h3>第四步：分流与连接</h3><p>开启系统代理或 VPN 模式，将国内域名直连、跨境域名走代理。先选延迟较低的普通节点验证连通，再切换到 IPLC 或解锁节点。浏览器无响应时检查系统时间、规则集是否过期。</p><h3>第五步：日常维护</h3><p>流量将尽时升级套餐或等待下月重置。节点失败时更新订阅而不是删除重装。工单优先给旗舰与团队用户。更换设备时用同一订阅导入，注意同时在线数量。</p></section></div><aside class=\"side\" id=\"download\"><h2>客户端下载</h2><p>官方下载指引按系统分类。请从可信应用商店或开发者发布页获取安装包，再回到本页用订阅链接导入。以下为推荐对应关系，链接均指向本页说明锚点。</p><ul><li><a href=\"#guide\">Windows / macOS：Clash 系客户端</a></li><li><a href=\"#guide\">Android：v2rayNG 或 Clash Meta</a></li><li><a href=\"#guide\">iOS：Shadowrocket / Stash</a></li><li><a href=\"#guide\">路由器：兼容订阅的旁路网关</a></li></ul><p>导入后若列表为空，检查链接是否完整、客户端是否支持该订阅格式。团队用户如需统一分发，由客户经理提供只读订阅，避免权限过大。</p><p><a href=\"#plans\">返回套餐对比</a> · <a href=\"#faq\">查看导入失败说明</a></p></aside></div><section><h2>节点与线路说明</h2><p>搬瓦工(JustMySocks) 节点池按套餐开放。基础版使用普通线路节点池，满足网页、邮件与基础流媒体。旗舰版增加全节点原生解锁与 IPLC 游戏向优化，适合晚高峰观影和对战。团队版提供 VIP 高带宽出口，并可按企业域名做定制路由。</p><p>实际延迟受本地宽带、跨境拥塞和你所选城市影响。建议在客户端内测速后收藏两条备用。不要同时开启多个加速器，以免路由冲突。加密传输用于保护订阅会话，不能替代业务系统自身的访问控制。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>搬瓦工(JustMySocks) 和普通 VPN 客户端是什么关系？</summary><p>搬瓦工(JustMySocks) 提供机场订阅与节点，本身不是某一款单一 App。你在官网开通套餐后，把订阅粘贴进 Clash、Shadowrocket、v2rayNG 等客户端，由客户端完成连接、分流与系统代理。这样可以按设备自由选择界面，也能在更新节点时只刷新一条链接。</p></details><details><summary>如何完成官网下载后的首次配置？</summary><p>先在套餐对比中下单，进入用户中心复制订阅。再按客户端下载一节安装对应软件，打开订阅栏粘贴并更新。选择一个延迟较低的节点开启连接，用浏览器访问需要加速的站点验证。若失败，先更新订阅、核对系统时间，再换一条同地区节点。</p></details><details><summary>三个套餐应该怎样选，会不会浪费流量？</summary><p>以月流量和同时在线数为硬约束：个人轻度使用选基础版 100GB / 3 台；需要完整解锁和游戏优化选旗舰版 300GB / 5 台；工作室或多终端选团队版 1000GB / 20 台。年付适合确认长期使用的情况。流量按月重置，不会把上月剩余自动结转，因此应按真实用量选择，而不是盲目追最高档。</p></details><details><summary>流媒体解锁失败或游戏延迟高怎么办？</summary><p>确认当前套餐是否包含全节点原生解锁或 IPLC 游戏优化。基础版仅承诺基础流媒体，高峰期可能需要切换节点。旗舰与团队用户应选择带解锁或游戏标签的线路，并关闭其他代理。若仍失败，更新订阅后提交工单，说明客户端名称、节点名称与失败时间，便于排查出口策略。</p></details><details><summary>订阅能分享给朋友或无限设备吗？</summary><p>不可以按无限设备理解。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。把订阅公开到群组会导致额度被占满甚至触发风控。家庭内部可在台数内共用；企业应由团队版做权限隔离。丢失订阅时在官网重置链接，旧链接会失效。</p></details><details><summary>是否提供退款、发票与工单时效？</summary><p>具体售后以开通时展示的规则为准。旗舰版含 7x24 优先工单，团队版另有专属客户经理。发票与合同类需求走团队方案沟通。使用中请遵守当地法律法规与目标网站条款，本页仅提供加速与客户端配置说明，不鼓励任何违法用途。</p></details></section><div class=\"ad-box\" id=\"ads\"><p>合作推广与广告位：搬瓦工(JustMySocks) 官网可投放与网络加速、跨境办公相关的文字合作信息。了解档期请通过页内工单说明或查看<a href=\"#friends\">友情链接</a>栏目，不使用表单收集信息。</p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><section id=\"friends\"><h2>友情链接</h2><div class=\"linkrow\"><a href=\"#intro\">搬瓦工(JustMySocks)简介</a><a href=\"#plans\">套餐方案</a><a href=\"#download\">官方下载</a><a href=\"#guide\">订阅导入</a><a href=\"#faq\">帮助中心</a></div></section><section id=\"sitemap\"><h2>网站地图</h2><div class=\"linkrow\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">广告合作</a><a href=\"#friends\">友情链接</a></div></section><p>搬瓦工(JustMySocks) 官方网站 · 机场订阅与 VPN 加速说明页。正文、标题与描述均围绕套餐、场景、操作与下载组织，便于对照使用。</p></div></footer>",
+          "hash": "b3d9b6dc478815df93c4dbac1eec5700a98c85c81a16f17777132ca6339c202d",
+          "seo": {
+            "title": "搬瓦工(JustMySocks)官网 | 机场订阅 VPN 梯子网络加速与客户端下载",
+            "keywords": "搬瓦工,JustMySocks,搬瓦工机场,JustMySocks VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC,流媒体解锁",
+            "description": "搬瓦工(JustMySocks)官方网站提供机场订阅、VPN加速器与多端客户端下载服务，覆盖基础到团队套餐，助力流媒体、游戏与跨境办公网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rkcujx.cn",
+    "host": "p-4fdbd4645d.rkcujx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "rkcujx.cn",
+      "url": "https://rkcujx.cn/",
+      "label": "Catnet",
+      "apex": "rkcujx.cn",
+      "kind": null,
+      "identity": "uedepyts/page-6591c1a6c0d7fa32c24decd0"
+    },
+    {
+      "host": "0jffgoq.cn",
+      "url": "https://0jffgoq.cn/",
+      "label": "搬瓦工(JustMySocks)",
+      "apex": "0jffgoq.cn",
+      "kind": null,
+      "identity": "enmxfjqtkw/page-3aa606fe35cb3fe9d406606f"
+    },
+    {
+      "host": "jszfsc.cn",
+      "url": "https://jszfsc.cn/",
+      "label": "搬瓦工(JustMySocks)",
+      "apex": "jszfsc.cn",
+      "kind": null,
+      "identity": "jdtknry/page-cc3cbeb715f7bb76eea8d3af"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f6fab0d21878dc0af762451008464437719a3775bfba057cbd06f374c983ee57",
+    "sitemap.xml": "40e4af9689733f50517fc0281b789ae6ed75a8bc9d2a76dbeb98c8f0d181a0fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3e773bd1c358d05c20dfdfff85557c788b80343fa59aa96806f60dfda2a4e7c1",
+    "robots.txt": "9a4f6a77cd93437de1e41380d6fdf50cbd850c3fe8b2275f1991b679bfa4199e",
+    "4636786ca14377bfefd9c7a383e41063.txt": "896017b7bc4acbc99f980e958dab817517cd322513b37a5f66d5e883226ef6ba"
+  },
+  "revision": "17d7e59de332f63d9a276c5e7a896178f8871a7a47d9e047d313e6b694861885"
+}
